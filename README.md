@@ -18,18 +18,15 @@
 
 ---
 
-## 🌴 About Me · What I Do
+## 🌴 About Me
 
-<table>
-  <tr>
-    <td width="66%" valign="middle">
-      <img src="assets/about-me.png" alt="About Me — Sayan Mahata" width="100%" />
-    </td>
-    <td width="34%" valign="middle">
-      <img src="assets/what-i-do.png" alt="What I Do — Prompt Engineering, UI/UX Design, Full-Stack Development and Creative Tech" width="100%" />
-    </td>
-  </tr>
-</table>
+Hey, I'm **Sayan** — a builder who enjoys combining code, design, and creative technology.
+
+- 🧠 **Prompt Engineer** — exploring prompt design and AI-assisted workflows.
+- 🎨 **UI/UX Enthusiast** — interested in intuitive interfaces, visual systems, and interaction design.
+- 💻 **Full-Stack Developer** — building web experiences from interface to backend.
+- 🎮 Interested in gaming, animation, and playful digital experiences.
+- 🚀 I like turning ambitious ideas into useful products and learning by shipping.
 
 ---
 
@@ -134,24 +131,5 @@
 ### 🌅 THINK BOLDLY · DESIGN WITH INTENT · BUILD THE FUTURE
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:130B2C,45:702A91,100:FF4FA3&height=120&section=footer" width="100%" alt="Neon gradient footer" />
-
-</div>
-
-
----
-
-## 🏎️ THE VICE CITY NIGHT RUN
-
-<p align="center">
-  <img src="assets/vice-city-footer.png" alt="Build · Design · Prompt · Create — Vice City sunset road" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/ferrari-vice-city-loop.gif" alt="Looping red Ferrari-style supercar driving through neon Vice City" width="100%" />
-</p>
-
-<div align="center">
-
-**SEE YOU ON THE NEXT RUN.** 🌴
 
 </div>
