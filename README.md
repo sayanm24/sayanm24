@@ -4,23 +4,27 @@
 </div>
 
 <h1 align="center">Hey, I'm Sayan Mahata 👋</h1>
-<h3 align="center">Full-Stack Developer · UI/UX Enthusiast · Builder</h3>
+<h3 align="center">🧠 Prompt Engineer &nbsp;·&nbsp; 🎨 UI/UX Enthusiast &nbsp;·&nbsp; 💻 Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/sayanm24"><img src="https://komarev.com/ghpvc/?username=sayanm24&style=for-the-badge&color=ff2da6" alt="Profile views" /></a>
   <a href="https://github.com/sayanm24?tab=followers"><img src="https://img.shields.io/github/followers/sayanm24?style=for-the-badge&color=8b5cf6&label=Followers" alt="GitHub followers" /></a>
-  <a href="https://github.com/sayanm24?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-06b6d4?style=for-the-badge" alt="Explore repositories" /></a>
+  <a href="https://github.com/sayanm24?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-06b6d4?style=for-the-badge" alt="Explore repositories" /></a>
 </p>
 
 ---
 
-## 🏝️ About me
+## 🌴 About me
+
+<img align="right" width="180" src="assets/sayan-avatar.jpg" alt="Sayan in a Vice City-inspired portrait" />
 
 - 🇮🇳 Based in India
-- 💻 Interested in building full-stack products and polished user experiences
-- 🎨 Exploring UI/UX, creative coding, animation and game development
-- 🚀 I enjoy turning ambitious ideas into working projects
-- 🌱 Always learning, experimenting and shipping
+- 🧠 Exploring prompt engineering and AI-assisted workflows
+- 🎨 Passionate about UI/UX, visual storytelling and polished interfaces
+- 💻 Building full-stack web apps and interactive experiences
+- 🚀 I love turning ambitious ideas into useful products
+
+<br clear="right" />
 
 ## 🧰 Tech stack
 
@@ -32,12 +36,12 @@
 
 | Project | What I'm building |
 |---|---|
-| **EUTOPIA** | A Gen-Z experience for trends, campus communities and live, mood-aware interfaces. |
+| **EUTOPIA** | A Gen-Z experience for trends, campus communities and mood-aware interfaces. |
 | **Healix** | A health companion concept focused on making health information easier to understand. |
 | **ASTRA** | An Indian mythology-inspired Roblox action RPG. |
 | **The 1% Challenge** | A Roblox progression game built around challenges and rewards. |
 
-> Project descriptions reflect my current project work. Visit my [repositories](https://github.com/sayanm24?tab=repositories) for the latest public code.
+> Explore my [public repositories](https://github.com/sayanm24?tab=repositories) for the latest code and project details.
 
 ## 📊 GitHub dashboard
 
@@ -61,4 +65,4 @@
   <a href="https://sayanm24.github.io/"><img src="https://img.shields.io/badge/Portfolio-Vice%20City-ff2da6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-<p align="center"><i>“Build boldly. Learn constantly. Ship something real.”</i></p>
+<p align="center"><b>“Think boldly. Design with intent. Build the future.”</b></p>
