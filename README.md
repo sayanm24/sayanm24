@@ -18,15 +18,14 @@
 
 ---
 
-## 🌴 About Me
 
-Hey, I'm **Sayan** — a builder who enjoys combining code, design, and creative technology.
-
-- 🧠 **Prompt Engineer** — exploring prompt design and AI-assisted workflows.
-- 🎨 **UI/UX Enthusiast** — interested in intuitive interfaces, visual systems, and interaction design.
-- 💻 **Full-Stack Developer** — building web experiences from interface to backend.
-- 🎮 Interested in gaming, animation, and playful digital experiences.
-- 🚀 I like turning ambitious ideas into useful products and learning by shipping.
+<div align="center">
+  <img
+    src="./assets/sayan-about-me-palms-birds.gif"
+    alt="Sayan Mahata — Animated Vice City About Me"
+    width="100%"
+  />
+</div>
 
 ---
 
