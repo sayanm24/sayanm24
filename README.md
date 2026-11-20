@@ -5,20 +5,15 @@
 
 <!-- ═══════════════ 2. PLAYER CARD + SKILLS ORBIT ═══════════════ -->
 <table width="100%"><tr>
-<td width="33%" align="center"><img src="./assets/player-card.svg?v=1" width="100%" alt="Sayan Mahata access pass"></td>
+<td width="33%" align="center"><img src="./assets/player-card.svg?v=2" width="100%" alt="Sayan Mahata access pass"></td>
 <td width="67%" align="center"><img src="./assets/tech-stack.svg?v=2" width="100%" alt="Skills: React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind, Python, Java, C++, Figma, Blender, Three.js, Supabase, Vite, JavaScript"></td>
 </tr></table>
 
 <!-- ═══════════════════════ 3. CONNECT ═══════════════════════ -->
 <div align="center">
   <a href="https://github.com/sayanm24"><img src="https://img.shields.io/badge/GitHub-0D0B18?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://portfolio-jet-three-16.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4FA3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <!-- Fill in your links, then remove these comment markers:
-  <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-9B4DFF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0D0B18" alt="Email"></a>
-  -->
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=sayanm24&color=ff4fa3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
 </div>
 
@@ -30,7 +25,7 @@
 </div>
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://github.com/sayanm24/Eutopia-weather"><img src="./assets/project-eutopia.svg?v=1" width="100%" alt="EUTOPIA — live-adaptive weather"></a></td>
+<td width="50%"><a href="https://github.com/sayanm24/Eutopia-weather"><img src="./assets/project-eutopia.svg?v=2" width="100%" alt="EUTOPIA — live-adaptive weather"></a></td>
 <td width="50%"><a href="https://github.com/sayanm24/SIH"><img src="./assets/project-bhashasetu.svg?v=1" width="100%" alt="BhashaSetu — SIH hackathon build"></a></td>
 </tr>
 <tr>
@@ -62,6 +57,14 @@
 <div align="center">
   <br>
   <img src="./assets/footer.svg?v=1" width="100%" alt="Thanks for visiting — Build · Design · Prompt · Create">
+  <br><br>
+  <b>Thanks for visiting.</b> <sub>wanna know more about this profile?</sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-0D0B18?style=flat-square&labelColor=0D0B18&color=0D0B18" alt="Let's connect">
   <br>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM/">
+    <img src="https://img.shields.io/badge/Instagram-YOUR__INSTAGRAM-FF4FA3?style=for-the-badge&logo=instagram&logoColor=FF4FA3&labelColor=0D0B18" alt="Instagram">
+  </a>
+  <br><br>
   <sub>~ Sayan Mahata</sub>
 </div>
