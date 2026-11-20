@@ -102,15 +102,26 @@ Hey, I'm **Sayan** — a builder who enjoys combining code, design, and creative
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sayanm24&bg_color=0D0B18&color=F4E9FF&line=FF4FA3&point=FFC857&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
 
----
-
-## 🐍 Contribution Trail
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sayanm24/sayanm24/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving across my GitHub contribution grid" width="100%" />
-</p>
 
 ---
+
+## 🔫 SAYAN.EXE
+
+<div align="center">
+
+```text
+// TARGET ACQUIRED
+// INITIALIZING PIXEL PROJECTOR...
+```
+
+<img src="assets/sayan-name-shooting-demo.gif" width="100%" alt="SAYAN.EXE shooting name animation" />
+
+**[ SYSTEM ONLINE ] — SAYAN.EXE**
+
+</div>
+
+---
+
 
 ## ⚡ Currently
 
