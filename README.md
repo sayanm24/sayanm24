@@ -1,140 +1,67 @@
+<!-- ═══════════════════════ 1. BANNER ═══════════════════════ -->
 <div align="center">
-
-<img src="assets/vice-city-banner.jpg" alt="Sayan Mahata — Vice City inspired developer banner" width="100%" />
-
-# SAYAN MAHATA · `@sayanm24`
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=23&duration=2400&pause=800&color=FF4FA3&center=true&vCenter=true&width=850&lines=Prompt+Engineer;UI%2FUX+Enthusiast;Full-Stack+Developer;Turning+ideas+into+digital+experiences" alt="Animated typing roles" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sayanm24&label=PROFILE%20VIEWS&color=ff4fa3&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/sayanm24?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-9b4dff?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-  <a href="https://sayanm24.github.io/"><img src="https://img.shields.io/badge/Portfolio-Vice%20City-ff4fa3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</p>
-
-**BUILD · DESIGN · PROMPT · CREATE**
-
+  <img src="./assets/banner.svg?v=1" width="100%" alt="Sayan Mahata — Prompt Engineer · UI/UX Enthusiast · Full-Stack Developer">
 </div>
 
----
+<!-- ═══════════════ 2. PLAYER CARD + SKILLS ORBIT ═══════════════ -->
+<table width="100%"><tr>
+<td width="33%" align="center"><img src="./assets/player-card.svg?v=1" width="100%" alt="Sayan Mahata access pass"></td>
+<td width="67%" align="center"><img src="./assets/tech-stack.svg?v=1" width="100%" alt="Skills: React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind, Python, Java, C++, Figma, Blender, Three.js, Supabase, Vite, JavaScript"></td>
+</tr></table>
 
-
+<!-- ═══════════════════════ 3. CONNECT ═══════════════════════ -->
 <div align="center">
-  <img
-    src="./assets/sayan-about-me-palms-birds.gif"
-    alt="Sayan Mahata — Animated Vice City About Me"
-    width="100%"
-  />
+  <a href="https://github.com/sayanm24"><img src="https://img.shields.io/badge/GitHub-0D0B18?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://portfolio-jet-three-16.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4FA3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <!-- Fill in your links, then remove these comment markers:
+  <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-9B4DFF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0D0B18" alt="Email"></a>
+  -->
+  <img src="https://komarev.com/ghpvc/?username=sayanm24&color=ff4fa3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
 </div>
 
----
-
-## 🏙️ Featured Projects
-
+<!-- ═══════════════════════ 4. PROJECTS ═══════════════════════ -->
 <div align="center">
-
-<a href="https://github.com/sayanm24/Eutopia-weather">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayanm24&repo=Eutopia-weather&theme=radical&hide_border=true&bg_color=0D0B18&title_color=FF4FA3&icon_color=FFC857&text_color=F4E9FF" width="49%" alt="Eutopia-weather repository card" />
-</a>
-<a href="https://github.com/sayanm24/SIH">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayanm24&repo=SIH&theme=radical&hide_border=true&bg_color=0D0B18&title_color=FF4FA3&icon_color=FFC857&text_color=F4E9FF" width="49%" alt="SIH repository card" />
-</a>
-<a href="https://github.com/sayanm24/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayanm24&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D0B18&title_color=FF4FA3&icon_color=FFC857&text_color=F4E9FF" width="49%" alt="Portfolio repository card" />
-</a>
-
+  <br>
+  <img src="https://img.shields.io/badge/-PROJECTS-FF4FA3?style=for-the-badge&logo=github&logoColor=0D0B18" alt="Projects">
+  <br><br>
 </div>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🌦️ EUTOPIA Weather</h3>
-      <p>A live-adaptive weather experience where the atmosphere, colours, animations, forecasts, radar, and mood-based music respond to weather conditions.</p>
-      <p><a href="https://github.com/sayanm24/Eutopia-weather">View source →</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🚀 SIH</h3>
-      <p>A hackathon project with a public demo and a web-app codebase built with a Vite frontend and Supabase components.</p>
-      <p><a href="https://github.com/sayanm24/SIH">Source code</a> · <a href="https://sih-nine-olive.vercel.app/">Live demo</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧑‍🚀 Portfolio</h3>
-      <p>A personal portfolio experiment using HTML, CSS, and JavaScript, including a 3D character component.</p>
-      <p><a href="https://github.com/sayanm24/Portfolio">Source code</a> · <a href="https://portfolio-jet-three-16.vercel.app/">Live site</a></p>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="50%"><a href="https://github.com/sayanm24/Eutopia-weather"><img src="./assets/project-eutopia.svg?v=1" width="100%" alt="EUTOPIA — live-adaptive weather"></a></td>
+<td width="50%"><a href="https://github.com/sayanm24/SIH"><img src="./assets/project-bhashasetu.svg?v=1" width="100%" alt="BhashaSetu — SIH hackathon build"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/sayanm24/Portfolio"><img src="./assets/project-portfolio.svg?v=1" width="100%" alt="Portfolio — Gamer × Coder"></a></td>
+<td width="50%"><a href="https://github.com/sayanm24?tab=repositories"><img src="./assets/project-next.svg?v=1" width="100%" alt="Next drop — coming soon"></a></td>
+</tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/sayanm24?tab=repositories">
-    <img src="https://img.shields.io/badge/SEE%20ALL%20PUBLIC%20REPOSITORIES-ff4fa3?style=for-the-badge&logo=github&logoColor=white" alt="See all public repositories" />
-  </a>
-</p>
-
----
-
-## 🧰 Tech Stack & Creative Tools
-
-<p align="center">
-  <strong>Languages & Web</strong><br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark" alt="HTML CSS JavaScript React Node Express" />
-</p>
-<p align="center">
-  <strong>Backend, Data & Tools</strong><br />
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,python,java,git,github&theme=dark" alt="MongoDB Firebase Python Java Git GitHub" />
-</p>
-<p align="center">
-  <strong>Design & 3D</strong><br />
-  <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="Figma and Blender" />
-</p>
-
----
-
-## 📊 GitHub Dashboard
-
+<!-- ═══════════ 5. STATS (auto-refreshed daily by .github/workflows/stats.yml) ═══════════ -->
+<table width="100%">
+<tr>
+<td width="50%"><img src="./assets/stats.svg" width="100%" alt="Player stats"></td>
+<td width="50%"><img src="./assets/langs.svg" width="100%" alt="Language loadout"></td>
+</tr>
+</table>
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sayanm24&show_icons=true&hide_border=true&bg_color=0D0B18&title_color=FF4FA3&icon_color=FFC857&text_color=F4E9FF" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanm24&layout=compact&hide_border=true&bg_color=0D0B18&title_color=FF4FA3&text_color=F4E9FF" alt="Most used languages" />
-  <br />
-  <img width="70%" src="https://streak-stats.demolab.com?user=sayanm24&theme=radical&hide_border=true&background=0D0B18&ring=FF4FA3&fire=FFC857&currStreakLabel=FF4FA3" alt="GitHub contribution streak" />
-  <br />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sayanm24&bg_color=0D0B18&color=F4E9FF&line=FF4FA3&point=FFC857&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img src="./assets/achievements.svg?v=1" width="98%" alt="Achievements unlocked">
 </div>
 
-
----
-
-## 🔫 SAYAN.EXE
-
+<!-- ═══════════ 6. SAYAN.EXE — the snake eats the board and spells the name ═══════════ -->
 <div align="center">
-
-<img src="assets/sayan-name-shooting-demo.gif" width="100%" alt="SAYAN.EXE shooting name animation" />
-
-**[ SYSTEM ONLINE ] — SAYAN.EXE**
-
+  <br>
+  <img src="./assets/sayan-exe.svg?v=1" width="100%" alt="SAYAN.EXE snake animation">
+  <br><br>
+  <img src="https://raw.githubusercontent.com/sayanm24/sayanm24/output/snake-neon.svg" width="100%" alt="Contribution graph being eaten by a neon snake">
 </div>
 
----
-
-
-## ⚡ Currently
-
-- Building and refining full-stack web experiences.
-- Exploring prompt engineering and AI-assisted workflows.
-- Practising UI/UX through real interfaces and prototypes.
-- Learning, experimenting, and documenting the journey.
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://github.com/sayanm24"><img src="https://img.shields.io/badge/GitHub-sayanm24-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://sayanm24.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-ff4fa3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</p>
-
+<!-- ═══════════════════════ 7. OUTRO ═══════════════════════ -->
 <div align="center">
-
-### 🌅 THINK BOLDLY · DESIGN WITH INTENT · BUILD THE FUTURE
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:130B2C,45:702A91,100:FF4FA3&height=120&section=footer" width="100%" alt="Neon gradient footer" />
-
+  <br>
+  <img src="./assets/footer.svg?v=1" width="100%" alt="Thanks for visiting — Build · Design · Prompt · Create">
+  <br>
+  <sub>~ Sayan Mahata</sub>
 </div>
