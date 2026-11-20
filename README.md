@@ -109,11 +109,6 @@ Hey, I'm **Sayan** — a builder who enjoys combining code, design, and creative
 
 <div align="center">
 
-```text
-// TARGET ACQUIRED
-// INITIALIZING PIXEL PROJECTOR...
-```
-
 <img src="assets/sayan-name-shooting-demo.gif" width="100%" alt="SAYAN.EXE shooting name animation" />
 
 **[ SYSTEM ONLINE ] — SAYAN.EXE**
