@@ -1,12 +1,12 @@
 <!-- ═══════════════════════ 1. BANNER ═══════════════════════ -->
 <div align="center">
-  <img src="./assets/banner.svg?v=1" width="100%" alt="Sayan Mahata — Prompt Engineer · UI/UX Enthusiast · Full-Stack Developer">
+  <img src="./assets/banner.svg?v=2" width="100%" alt="Sayan Mahata — Prompt Engineer · UI/UX Enthusiast · Full-Stack Developer">
 </div>
 
 <!-- ═══════════════ 2. PLAYER CARD + SKILLS ORBIT ═══════════════ -->
 <table width="100%"><tr>
 <td width="33%" align="center"><img src="./assets/player-card.svg?v=1" width="100%" alt="Sayan Mahata access pass"></td>
-<td width="67%" align="center"><img src="./assets/tech-stack.svg?v=1" width="100%" alt="Skills: React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind, Python, Java, C++, Figma, Blender, Three.js, Supabase, Vite, JavaScript"></td>
+<td width="67%" align="center"><img src="./assets/tech-stack.svg?v=2" width="100%" alt="Skills: React, Next.js, Node.js, Express, MongoDB, Firebase, Tailwind, Python, Java, C++, Figma, Blender, Three.js, Supabase, Vite, JavaScript"></td>
 </tr></table>
 
 <!-- ═══════════════════════ 3. CONNECT ═══════════════════════ -->
@@ -55,7 +55,7 @@
   <br>
   <img src="./assets/sayan-exe.svg?v=1" width="100%" alt="SAYAN.EXE snake animation">
   <br><br>
-  <img src="https://raw.githubusercontent.com/sayanm24/sayanm24/output/snake-neon.svg" width="100%" alt="Contribution graph being eaten by a neon snake">
+  <img src="./assets/snake-neon.svg" width="100%" alt="Contribution graph being eaten by a neon snake">
 </div>
 
 <!-- ═══════════════════════ 7. OUTRO ═══════════════════════ -->
